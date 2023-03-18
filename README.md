@@ -1,2 +1,4 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+![alt text](https://www.google.com/search?q=joker+&tbm=isch&ved=2ahUKEwj_k6SWh-X9AhVDi_0HHRjdBQ0Q2-cCegQIABAA&oq=joker+&gs_lcp=CgNpbWcQAzIICAAQgAQQsQMyCAgAEIAEELEDMggIABCABBCxAzIICAAQgAQQsQMyCAgAEIAEELEDMggIABCABBCxAzIFCAAQgAQyCAgAEIAEELEDMgUIABCABDIICAAQgAQQsQM6BAgAEENQ1wdY-EdghUloAHAAeAGAAYIEiAGWCpIBCzAuMS4xLjEuMC4xmAEAoAEBqgELZ3dzLXdpei1pbWewAQDAAQE&sclient=img&ei=rHUVZP-NBcOW9u8PmLqXaA&rlz=1C1GCEA_enTR977TR978#imgrc=g_nOEevbWKj_mM)
+[patika.dev](www.patika.dev)
